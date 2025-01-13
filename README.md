@@ -10,6 +10,12 @@ This repository contains the MySQL database model for the Personal Data Sheet us
 
 ## Database Schema Overview
 
+### ER Diagram
+Below is the Entity-Relationship Diagram generated from MYSQL Workbench's Reverse Engineer tool:
+
+![image](https://github.com/user-attachments/assets/80715721-efbb-4180-8768-3ad1388768a8)
+
+
 ### Tables
 
 1. **employee**: Stores primary personal details such as name, birthdate, contact information, and family members.
